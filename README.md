@@ -3,7 +3,7 @@
 the best project ever!
 
 ## 技术文档
-简书中文: [Egg从零开始](http://doc.dz11.com/ddse/preview/space/15480?sid=36&pid=15479)
+简书中文: [Egg从零开始](https://www.jianshu.com/p/84dee1affc2b)
 
 官方文档： see [egg docs][egg] for more detail.
 
